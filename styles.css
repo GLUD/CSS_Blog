@@ -53,4 +53,25 @@ amp-current, .nav-paginated .current {
   margin-right: 35px;
   overflow: hidden;
 }
+.site-midrow .widgets .widget ul li {
+	background-color: black;
+  color: white;
+	width: 320px;
+	display: inline;
+	padding: 10px 20px;
+	text-decoration: none;
+  border-radius: 4px 4px 0 0;
+}
+.site-midrow .widgets .widget ul li:hover {
+    background-color: #0150c7;
+}
+
+.pre {
+	background-color: #F1F1F1;
+	border: 1px solid #00000;
+	padding: 10px;
+	overflow: auto;
+	margin: 7px;
+	color: #0150c7;
+}
 
