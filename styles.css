@@ -32,6 +32,26 @@ p.attribution {
 	text-align: center;
 }
 
+.widget-content li a::before {
+	color: #7C7E7F;
+	font-size: 25px;
+}
+
+.single-post .post-inner {
+	width: 100%;
+}
+
+h2, h3, h4, h5, h6, p, blockquote, address, big, cite, code, em, font, img, small, strike, sub, sup, li, ol, ul, fieldset, form, label, legend, button, table, caption, tr, th, td {
+	text-align: justify;
+}
+
+h1 {
+	text-align: center;
+}
+
+.post-inner .sd-rating, .post-inner .sd-sharing-enabled {
+	margin: 0 0 0;
+}
 pre {
 	display: block;
 	font-family: monospace;
